@@ -7,7 +7,10 @@ This is an AI-powered text-to-video generation tool that automatically creates v
 #### An automated, AI-powered pipeline that creates engaging short videos from any text topic. Perfect for generating content for YouTube Shorts, TikTok, Reels, and social media. 
 
 Takes a text topic as input (e.g., "dogs" or "space exploration") 
-Generates a complete video with script, voiceover, background footage, and captions Outputs a finished MP4 video file 
+Generates a complete video with script, voiceover, background footage, and captions Outputs a finished MP4 video file
+
+##### This is similar to function from [Automation Youtube](https://aiyoutube.sell.app)
+
 
 ### 🚀 Features 
 
